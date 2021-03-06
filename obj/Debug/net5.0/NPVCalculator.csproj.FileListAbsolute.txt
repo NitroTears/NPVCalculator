@@ -1,0 +1,16 @@
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.exe
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.deps.json
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.runtimeconfig.json
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.runtimeconfig.dev.json
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.dll
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\ref\NPVCalculator.dll
+C:\Users\Luke\Repos\NPVCalculator\bin\Debug\net5.0\NPVCalculator.pdb
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.csprojAssemblyReference.cache
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.AssemblyInfoInputs.cache
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.AssemblyInfo.cs
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.dll
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\ref\NPVCalculator.dll
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.pdb
+C:\Users\Luke\Repos\NPVCalculator\obj\Debug\net5.0\NPVCalculator.genruntimeconfig.cache
